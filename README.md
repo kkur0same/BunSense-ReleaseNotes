@@ -1,6 +1,6 @@
 # BunSense Release Notes
 
-Release notes for [BunSense](https://github.com/kkur0same/japanese-crome-ext) — Japanese Furigana, translation, and grammar helper (Chrome extension).
+Release notes for BunSense — Japanese Furigana, translation, and grammar helper (Chrome extension).
 
 ## Read online
 
