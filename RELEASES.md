@@ -1,3 +1,45 @@
+# Release Notes - v1.1.0
+
+[简体中文](RELEASES_zh_CN.md) · [繁體中文](RELEASES_zh_TW.md)
+
+## Highlights
+
+New AI Voice (TTS) feature with multiple providers, redesigned floating bar with tooltip navigation, and improved overlay behavior.
+
+---
+
+## Voice (BETA)
+
+### New
+- **AI Voice** — Listen to selected Japanese text read aloud with natural AI voices
+- **Providers** — OpenAI TTS, Google Gemini, and Azure Speech Service
+- **Default voice** — Built-in browser speech synthesis
+- **Voice settings** — Dedicated Voice section in sidebar to choose provider, voice, and model
+- **Play / Pause / Resume** — Full playback control from the floating bar voice panel
+
+---
+
+## Floating Bar
+
+### Redesigned
+- **Tooltip navigation** — Hover over icons to see feature labels; clean icon-only look when idle
+- **Persistent bar** — Floating bar stays visible while overlays (Translate, Grammar, Dictionary, Voice) or Settings are open
+- **Toggle overlays** — Click a feature button again to close its overlay (consistent across all features)
+
+### Fixes
+- **No more flash** — Fixed the bar briefly flashing when closing overlays or clicking sidebar icons
+- **Branding icon** — Fixed floating bar disappearing after clicking the branding icon
+- **Password autofill fix** — API key inputs no longer trigger browser password manager popups on websites
+
+---
+
+## Overlays & UI
+
+- **Voice panel** — Inline overlay for switching between Default / AI speech with a close button
+- **Visual polish** — Improved icon sizing, spacing, padding, and overall floating bar balance
+
+---
+
 # Release Notes - v1.0.1
 
 [简体中文](RELEASES_zh_CN.md) · [繁體中文](RELEASES_zh_TW.md)
